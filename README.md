@@ -21,3 +21,8 @@ They are active or not, and it is saved, you can also update and delete their in
 ## Updates
 
 The program has some bugs so we're working on it
+
+
+## Routes
+/home/Cohorte5/Escritorio/practicaColecciones/c5_c1_prueba/Grabaciones de la pantalla
+/home/Cohorte5/Escritorio/practicaColecciones/c5_c1_prueba/Grabaciones de la pantalla
